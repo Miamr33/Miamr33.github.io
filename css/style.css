@@ -1,0 +1,46 @@
+body {
+    background-color: gainsboro;
+}
+.resume {
+    height: 830px;
+    width: 500px;
+    margin: auto;
+    background-color: white;
+}
+div {
+    padding-left: 50px;
+    padding-right: 50px;
+    border-bottom: 1px solid black;
+}
+h2 {
+    text-align: center;
+    padding-top: 60px;
+}
+img {
+    width: 200px;
+    padding-left: 100px;
+}
+p {
+   font-size: 16px;
+   font-family: Arial, Tahoma, sans-serif;
+}
+ul {
+   padding: 0;
+   font-family: Arial, Tahoma, sans-serif;
+}
+li {
+   margin-left: 20px;
+ }
+.contact, .profile {
+   border: none;
+   padding: 0;
+}
+.phone {
+   margin-bottom: 30px;
+}
+a {
+  font-size: 20px;
+}
+.special__div, .resume {
+  border: none;
+}
